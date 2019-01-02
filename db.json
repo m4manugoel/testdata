@@ -1,0 +1,56 @@
+[
+	{
+		"id":1,
+		"name":"I",
+		"from_time":"08:00 am",
+		"to_time":"08:35 am"
+	},
+	{
+		"id":2,
+		"name":"II",
+		"from_time":"08:35 am",
+		"to_time":"09:10 am"
+	},
+	{
+		"id":3,
+		"name":"III",
+		"from_time":"09:10 am",
+		"to_time":"09:45 am"
+	},
+	{
+		"id":4,
+		"name":"IV",
+		"from_time":"09:45 am",
+		"to_time":"10:20 am"
+	},
+	{
+		"id":5,
+		"name":"V",
+		"from_time":"10:20 am",
+		"to_time":"10:55 am"
+	},
+	{
+		"id":6,
+		"name":"Recess",
+		"from_time":"10:55 am",
+		"to_time":"11:25 am"
+	},
+	{
+		"id":7,
+		"name":"VI",
+		"from_time":"11:25 am",
+		"to_time":"12:00 pm"
+	},
+	{
+		"id":8,
+		"name":"VII",
+		"from_time":"12:00 pm",
+		"to_time":"12:35 pm"
+	},
+	{
+		"id":9,
+		"name":"VIII",
+		"from_time":"12:35 pm",
+		"to_time":"01:10 pm"
+	}
+]
