@@ -62,7 +62,8 @@
     "standard": "I",
     "section": "A",
 	"class_teacher": "Avanish Jaiswal",
-	"monitor": "Alok Kumar"
+	"monitor": "Alok Kumar",
+	"class_strength": 58
   },
   {
 	"id": 2,
@@ -70,7 +71,8 @@
     "standard": "I",
     "section": "B",
 	"class_teacher": "Adhish Jaiswal",
-	"monitor": "Kanad Ranjan"
+	"monitor": "Kanad Ranjan",
+	"class_strength": 62
   },
   {
 	"id": 3,
@@ -78,7 +80,8 @@
     "standard": "I",
     "section": "C",
 	"class_teacher": "Manu Goel",
-	"monitor": "Qamar Nomani"
+	"monitor": "Qamar Nomani",
+	"class_strength": 60
   }
   ]
 }
