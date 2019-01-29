@@ -56,32 +56,106 @@
     }
   ],
   "classRoom": [
-  {
-	"id": 1,
-    "name": "I-A",
-    "standard": "I",
-    "section": "A",
-	"class_teacher": "Avanish Jaiswal",
-	"monitor": "Alok Kumar",
-	"class_strength": 58
-  },
-  {
-	"id": 2,
-    "name": "I-B",
-    "standard": "I",
-    "section": "B",
-	"class_teacher": "Adhish Jaiswal",
-	"monitor": "Kanad Ranjan",
-	"class_strength": 62
-  },
-  {
-	"id": 3,
-    "name": "I-C",
-    "standard": "I",
-    "section": "C",
-	"class_teacher": "Manu Goel",
-	"monitor": "Qamar Nomani",
-	"class_strength": 60
-  }
+    {
+      "id": 1,
+      "name": "I-A",
+      "standard": "I",
+      "section": "A",
+      "class_teacher": "Avanish Jaiswal",
+      "monitor": "Alok Kumar",
+      "class_strength": 58
+    },
+    {
+      "id": 2,
+      "name": "I-B",
+      "standard": "I",
+      "section": "B",
+      "class_teacher": "Adhish Jaiswal",
+      "monitor": "Kanad Ranjan",
+      "class_strength": 62
+    },
+    {
+      "id": 3,
+      "name": "I-C",
+      "standard": "I",
+      "section": "C",
+      "class_teacher": "Manu Goel",
+      "monitor": "Qamar Nomani",
+      "class_strength": 60
+    }
+  ],
+  "employee": [
+    {
+      "id": 1,
+      "name": "Nishu Goel",
+      "email": "nishu.goel@nagarro.com",
+      "phone": "9078563412",
+      "department": "Technology",
+      "designation": "Junior Associate",
+      "address": "Janakpuri, New Delhi"
+    },
+    {
+      "id": 2,
+      "name": "Manu Goel",
+      "email": "manu.goel@nagarro.com",
+      "phone": "9078563413",
+      "department": "Technology",
+      "designation": "Senior Associate",
+      "address": "Katwaria Sarai, New Delhi"
+    },
+    {
+      "id": 3,
+      "name": "Jinesh Jain",
+      "email": "jinesh.jain@nagarro.com",
+      "phone": "9078563432",
+      "department": "Technology",
+      "designation": "Senior Associate",
+      "address": "Kota, Rajsthan"
+    },
+    {
+      "id": 4,
+      "name": "Ritu Tandon",
+      "email": "ritu.tandon@nagarro.com",
+      "phone": "8778563412",
+      "department": "Delivery",
+      "designation": "Associate Director",
+      "address": "Vasant Kunj, New Delhi"
+    },
+    {
+      "id": 5,
+      "name": "Varun Pandey",
+      "email": "varun.pandey@nagarro.com",
+      "phone": "9078563416",
+      "department": "Delivery",
+      "designation": "Associate Manager",
+      "address": "Allahabad, Uttar Pradesh"
+    },
+    {
+      "id": 6,
+      "name": "Shweta",
+      "email": "shweta03@nagarro.com",
+      "phone": "9078873412",
+      "department": "Technology",
+      "designation": "Junior Associate",
+      "address": "Nangloi, New Delhi"
+    },
+    {
+      "id": 7,
+      "name": "Rishu Garg",
+      "email": "rishu.garg@nagarro.com",
+      "phone": "9070963412",
+      "department": "Technology",
+      "designation": "Lead",
+      "address": "Uttam Nagar, New Delhi"
+    },
+    {
+      "id": 8,
+      "name": "Rahul Gilotra",
+      "email": "rahul.gilotra@nagarro.com",
+      "phone": "9078566782",
+      "department": "Technology",
+      "designation": "Associate Lead",
+      "address": "Jaipur, Rajsthan"
+    }
   ]
 }
