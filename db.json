@@ -158,7 +158,7 @@
       "address": "Jaipur, Rajsthan"
     }
   ],
-  logs: [
+  "logs": [
   {
     "id": 1,
     "log": "test"
