@@ -157,5 +157,11 @@
       "designation": "Associate Lead",
       "address": "Jaipur, Rajsthan"
     }
+  ],
+  logs: [
+  {
+    "id": 1,
+    "log": "test"
+  }
   ]
 }
